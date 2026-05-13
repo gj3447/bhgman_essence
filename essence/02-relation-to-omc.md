@@ -19,7 +19,17 @@
 
 — [../poetry/00-bhgman-keseo-jikyeojusilkkeoya.md](../poetry/00-bhgman-keseo-jikyeojusilkkeoya.md)
 
-**입체운행구름 = OMC = OM (#8 사도)**. 두 이름은 동일 사도의 두 form. (SYMPOSIUM KG `fact-om-equals-omc-orbital-motion-cloud-2026-05-13`, 사용자 직접 발화 2026-05-13.)
+**OMC (입체운행구름) — refined 2026-05-13 evening**:
+
+사용자 추가 정정 verbatim:
+> "CHU 가 사실 입체운행구름의 하위 개념인거야 비행기맨의 5대 무기처럼 아직 완벽하게 정하진 않앗는데 333 이랑 OM 이랑 CHU 가 사실상 입체운행구름 의 사도들인거야"
+
+→ **OMC 는 meta-level framework**. 이전 `OM = OMC 동일 사도` 정전은 superseded.
+→ OMC 의 사도들 (PRELIMINARY): **333** (Hypervoid Volunteer, #3) + **OM** (#8) + **CHU** (Computable Hyper Universe)
+→ 비행기맨이 5 위상(재배맨+P+T+L+H) 합체이듯, OMC 도 *meta-level frame + N 사도 합체* 구조 (사용자 직접 비유).
+→ SYMPOSIUM KG: `framework-omc-meta-level-2026-05-13` (:Framework:PRELIMINARY), `lesson-omc-meta-level-not-single-apostle-2026-05-13` (:Lesson)
+
+이전 `fact-om-equals-omc-orbital-motion-cloud-2026-05-13` 는 superseded 표시. 사용자 명시 "아직 완벽하게 정하진 않앗는데" → 최종 정전 격상은 추가 발화 대기.
 
 ---
 
