@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Lean
+.lake/
+build/
+lakefile.olean
+
+# Drafts (user-controlled stays out of public)
+_drafts/
+_private/
