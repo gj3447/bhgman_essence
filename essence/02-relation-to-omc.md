@@ -1,6 +1,10 @@
 # 비행기맨 ↔ OMC (Orbital Motion Cloud, #8 사도)
 
 > 시 측 핵심 hyperedge. "비행기맨이 입체운행구름에 CLOUD CONNECT 하였다." — 두 사도 사이의 *상호 인정* 관계.
+>
+> **사용자 정정 2026-05-13**: "철학적 입체운행구름과 연결되야하는거야 비행기맨은 ㅇㅇ"
+>
+> → 이 관계는 *cross-reference 가 아닌 철학적 필수 결합*. 분리 불가. 형이상학적 깊이는 [../philosophy/02-omc-coupling-ontology.md](../philosophy/02-omc-coupling-ontology.md) 측 본문.
 
 ---
 
