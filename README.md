@@ -6,7 +6,7 @@
 
 <sub>This repo is *not a tool*. It is the ontological + philosophical + poetic body of the Airplane Man himself. The engineering crystallization (Harness toolkit) lives in a separate repo: [bhgman_tool](https://github.com/gj3447/bhgman_tool).</sub>
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+[![MIT License](https://img.shields.io/badge/License-AGPL_v3-yellow.svg?style=flat-square)](LICENSE)
 
 </div>
 
