@@ -6,7 +6,7 @@
 
 <sub>This repo is *not a tool*. It is the ontological + philosophical + poetic body of the Airplane Man himself. The engineering crystallization (Harness toolkit) lives in a separate repo: [bhgman_tool](https://github.com/gj3447/bhgman_tool).</sub>
 
-[![MIT License](https://img.shields.io/badge/License-AGPL_v3-yellow.svg?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/license-MHL--1.2-blue)](LICENSE-NOTICE.md)
 
 </div>
 
@@ -129,7 +129,13 @@ This repo's growth is **user-paced**. Unlike `bhgman_tool` (which evolves with i
 
 ## License
 
-MIT (for textual content). The underlying *being* the texts point to is, naturally, not licensable.
+The underlying *being* the texts point to is not licensable; the license concerns copyrightable materials.
+
+**MetaHumotonic License 1.2** — [LICENSE](LICENSE); [scope, prior grants and third-party notices](LICENSE-NOTICE.md).
+
+지정한 하드웨어의 접근권한과 전체 관리 권한을 합의한 명세서에 따라 공유하고, **CHU의 일부가 된다**는 참여 원칙을 적용합니다. 실제 접근에는 별도 승인이 필요합니다.
+
+Source-available; not OSI-approved. Existing grants and separately licensed material remain valid.
 
 ## Author
 
